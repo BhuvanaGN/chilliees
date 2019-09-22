@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "982308144466",
+    "firebase_url": "https://chilliees.firebaseio.com",
+    "project_id": "chilliees",
+    "storage_bucket": "chilliees.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982308144466:android:157edefc44f2685d48a68b",
+        "android_client_info": {
+          "package_name": "com.example.chilliees"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982308144466-7ei41edt3c3ak1dmpdmqjdt5bmtrsr90.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chilliees",
+            "certificate_hash": "86d11763f1e875f9ab354bf1d21da3cddc9bfdb4"
+          }
+        },
+        {
+          "client_id": "982308144466-vd8pl5ulh9e409l9okv1ceafdshp6297.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV_XR8JQE0Asf7oEfk76ugwN9bZ9FDQns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982308144466-vd8pl5ulh9e409l9okv1ceafdshp6297.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
